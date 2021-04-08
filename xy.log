@@ -1,0 +1,28 @@
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.3.7)  8 APR 2014 10:11
+entering extended mode
+ %&-line parsing enabled.
+**xy.sty
+(./xy.sty
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, loaded.
+! I can't find file `xy'.
+l.32 \input xy
+              
+(Press Enter to retry, or Control-D to exit)
+Please type another input file name
+! Emergency stop.
+l.32 \input xy
+              
+*** (job aborted, file error in nonstop mode)
+
+ 
+Here is how much of TeX's memory you used:
+ 8 strings out of 495061
+ 143 string characters out of 1182622
+ 45108 words of memory out of 3000000
+ 3284 multiletter control sequences out of 15000+50000
+ 3640 words of font info for 14 fonts, out of 3000000 for 9000
+ 28 hyphenation exceptions out of 8191
+ 5i,0n,3p,93b,8s stack positions out of 5000i,500n,10000p,200000b,50000s
+!  ==> Fatal error occurred, no output PDF file produced!

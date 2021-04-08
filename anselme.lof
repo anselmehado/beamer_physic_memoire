@@ -1,0 +1,27 @@
+\select@language {french}
+\addvspace {10\p@ }
+\contentsline {xchapter}{ Introduction a la gravitation }{13}{chapter.1}
+\contentsline {xpart}{Introduction \`a la RG}{15}{part.1}
+\contentsline {xpart}{Approximation des champs faibles}{25}{part.2}
+\addvspace {10\p@ }
+\contentsline {xchapter}{Introduction \IeC {\`a} la cosmologie}{32}{chapter.2}
+\contentsline {figure}{\numberline {2.1}{\ignorespaces D\IeC {\'e}termination des distance entre la terre- soleil- \IeC {\'e}toile en UA}}{34}{figure.2.1}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Augmentation de la longueur d'onde \`a cause de l'expansion de l'Univers}}{46}{figure.2.2}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Diagramme publi\'e par Edwin Hubble dans son article de $1929$ \cite {1}}}{48}{figure.2.3}
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Diagramme de Hubble (pour les supernovae) de $2005$ \cite {2}}}{48}{figure.2.4}
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Mise en oeuvre de l'homog\IeC {\'e}n\IeC {\'e}it\IeC {\'e} de l'Univers grace \IeC {\`a} la relation de Hubble}}{49}{figure.2.5}
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Horizon d'\'ev\'enement}}{51}{figure.2.6}
+\contentsline {figure}{\numberline {2.7}{\ignorespaces Horizon de particule}}{51}{figure.2.7}
+\contentsline {figure}{\numberline {2.8}{\ignorespaces Evolution du potentiel en fonction de $a$.}}{54}{figure.2.8}
+\contentsline {figure}{\numberline {2.9}{\ignorespaces }}{54}{figure.2.9}
+\contentsline {figure}{\numberline {2.10}{\ignorespaces }}{54}{figure.2.10}
+\contentsline {figure}{\numberline {2.11}{\ignorespaces }}{54}{figure.2.11}
+\contentsline {figure}{\numberline {2.12}{\ignorespaces }}{54}{figure.2.12}
+\addvspace {10\p@ }
+\contentsline {xchapter}{L'acc\'el\'eration de l'Univers et mod\`eles de gravit\'e}{55}{chapter.3}
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Diagramme de Hubble (distance luminosit\'e $ \qopname \relax o{log}[H_0 D_L(z) ] $ en fonction du red-shift $z$) pour un Univers plat pour un certain nombres de SN Ia observ\'ees. Les points noirs proviennent du catalogue ''Gold'' de Riess et al. \cite {225}, tandis que les points rouges proviennent de mesures effectu\'ees par le Hubble Space Telescope $(HST)$. On voit tr\`es clairement que le cas $ \Omega _m = 0.31$, $ \Omega _\Lambda = 0.69$ correspond mieux aux observations que le cas d'un univers sans constante cosmologique $ \Omega _m = 1$, $ \Omega _\Lambda = 0$ . La figure provient de la r\'ef\'erence \cite {71}.}}{64}{figure.3.1}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Contours des niveaux de confiance \`a $ 68.3 \% $, $ 95.5 \% $ et $ 99.7 \% $ pour les param\`etres $ (\Omega _m, \Omega _\Lambda )$, issues du diagramme de Hubble obtenu par le Supernova Legacy Survey (SNLS) (lignes pleines) et des BAO mesur\'ees par le Sloan Digital Sky Survey (SDSS) (lignes pointill\'ees). Les contraintes conjointes sont repr\'esent\'ees par les lignes en pointill\'es larges. Le cas $ (\Omega _m, \Omega _\Lambda ) = (1, 0)$ est tr\`es clairement exclu. Les valeurs des param\`etres $ (\Omega _m, \Omega _\Lambda )$ favoris\'ees par les donn\'ees des SN Ia sont dans une ellipse orient\'ee selon une droite d'\'equation $ \Omega _\Lambda \backsimeq \Omega _m + 0.4 $ . La figure ci-dessus est issue de \cite {26}. }}{65}{figure.3.2}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Fonction de corr\'elation des galaxies du catalogue du SDSS. Les courbes verte (en haut), rouge et bleue (en bas, avec un pic) correspondent respectivement aux mod\`eles $ \Omega _m h^2 = 0.12, 0.13, 0.14$, avec $ \Omega _b h^2 = 0.024 $. La courbe du bas (sans pic) correspond \`a un mod\`ele de mati\`ere noire sans baryon $ ( \Omega _m h^2 = 0.105) $. On voit tr\`es clairement la signature des BAO \`a $ r \backsimeq 105h^{-1}Mpc \backsimeq 150Mpc $. Figure issue de l'article \cite {115}. }}{68}{figure.3.3}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Combinaison des contraintes sur les param\`etres $( \Omega _m, \Omega _\Lambda )$ du mod\`ele $ \Lambda CDM$ issues de la mesure de la distance luminosit\'e des SN Ia (Union supernovae \cite {195}), du CMB (WMAP5) et des BAO (SDSS - release 7). Les ellipses des contraintes associ\'ees des trois types de mesures sont orient\'ees d'une fa\c {c}on tr\`es diff\'erente : l'association des trois observations permet donc de mesurer les param\`etres $( \Omega _m, \Omega _\Lambda )$ beaucoup plus pr\'ecis\'ement qu'avec chacune des m\'ethodes s\'epar\'ement. La figure provient de \cite {212}. }}{69}{figure.3.4}
+\addvspace {10\p@ }
+\contentsline {xchapter}{Conclusion g\'en\'erale et perspectives}{74}{chapter.4}

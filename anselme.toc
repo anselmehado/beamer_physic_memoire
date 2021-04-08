@@ -1,0 +1,59 @@
+\select@language {french}
+\chapterbegin 
+\chapterbegin 
+\chapterbegin 
+\contentsline {paragraph}{}{3}{section*.4}
+\contentsline {paragraph}{}{3}{section*.5}
+\contentsline {paragraph}{}{3}{section*.6}
+\chapterbegin 
+\contentsline {paragraph}{}{4}{section*.8}
+\chapterbegin 
+\contentsline {starchapter}{Table des figures}{6}{chapter*.9}
+\chapterbegin 
+\chapterbegin 
+\contentsline {paragraph}{}{9}{section*.12}
+\contentsline {paragraph}{}{9}{section*.13}
+\contentsline {chapter}{\numberline {1} Introduction a la gravitation }{13}{chapter.1}
+\contentsline {part}{I\hspace {1em}Introduction \`a la RG}{14}{part.1}
+\contentsline {xpart}{Introduction \`a la RG}{15}{part.1}
+\contentsline {section}{\numberline {1.1}Introduction}{15}{section.1.1}
+\contentsline {section}{\numberline {1.2}La Gravitation comme g\'eom\'etrie de l'espace-temps}{15}{section.1.2}
+\contentsline {section}{\numberline {1.3}Equations d'Einstein \`a partir du formalisme lagrangien}{17}{section.1.3}
+\contentsline {subsection}{\numberline {1.3.1}Equations de champs}{17}{subsection.1.3.1}
+\contentsline {subsection}{\numberline {1.3.2}Non-lin\'earit\'e des \'equations de champ}{21}{subsection.1.3.2}
+\contentsline {subsection}{\numberline {1.3.3}Propri\'et\'es du tenseur d'Einstein}{21}{subsection.1.3.3}
+\contentsline {subsection}{\numberline {1.3.4}Conservation de l'\'energie et du moment}{22}{subsection.1.3.4}
+\contentsline {part}{II\hspace {1em}Approximation des champs faibles}{24}{part.2}
+\contentsline {xpart}{Approximation des champs faibles}{25}{part.2}
+\contentsline {section}{\numberline {1.4}Equation de Continuit\'e}{25}{section.1.4}
+\contentsline {section}{\numberline {1.5}Equation de Poisson}{26}{section.1.5}
+\contentsline {section}{\numberline {1.6}Deuxi\`eme loi de Newton}{29}{section.1.6}
+\contentsline {section}{\numberline {1.7}Interpr\'etation physique}{30}{section.1.7}
+\contentsline {chapter}{\numberline {2}Introduction \IeC {\`a} la cosmologie}{32}{chapter.2}
+\contentsline {section}{\numberline {2.1}Introduction}{32}{section.2.1}
+\contentsline {section}{\numberline {2.2}Espace homog\`ene et isotrope - M\'etrique de Robertson-Walker}{33}{section.2.2}
+\contentsline {section}{\numberline {2.3}Equations de Friedman}{38}{section.2.3}
+\contentsline {section}{\numberline {2.4}Diff\'erentes solutions des \'equations de Friedmann}{41}{section.2.4}
+\contentsline {section}{\numberline {2.5}Equations de Friedmann en m\'ecanique Newtonienne}{43}{section.2.5}
+\contentsline {section}{\numberline {2.6}Propagation de la lumi\`ere dans l'Univers- D\'ecalage vers le rouge}{44}{section.2.6}
+\contentsline {section}{\numberline {2.7}Horizons}{49}{section.2.7}
+\contentsline {section}{\numberline {2.8}Densit\'e critique de l'Univers}{50}{section.2.8}
+\contentsline {section}{\numberline {2.9}Le futur de l'Univers}{52}{section.2.9}
+\contentsline {chapter}{\numberline {3}L'acc\'el\'eration de l'Univers et mod\`eles de gravit\'e}{55}{chapter.3}
+\contentsline {section}{\numberline {3.1}Le mod\`ele cosmologique standard}{56}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}M\'etrique de FLRW }{56}{subsection.3.1.1}
+\contentsline {subsection}{\numberline {3.1.2}Relativit\'e G\'en\'erale et \'equations de Friedmann}{57}{subsection.3.1.2}
+\contentsline {subsection}{\numberline {3.1.3}Equation d'\'etat de la mati\`ere et \'evolution de l'Univers }{59}{subsection.3.1.3}
+\contentsline {section}{\numberline {3.2}Mod\'elisation et preuves exp\'erimentales de l'existence de l'\'energie noire}{61}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Mod\'elisation de l'\'energie noire}{61}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}Supernovae de type Ia}{62}{subsection.3.2.2}
+\contentsline {subsection}{\numberline {3.2.3} \^Age de l'Univers }{63}{subsection.3.2.3}
+\contentsline {subsection}{\numberline {3.2.4}Fond diffus cosmologique}{66}{subsection.3.2.4}
+\contentsline {subsection}{\numberline {3.2.5}Oscillations Acoustiques des Baryons (BAO)}{67}{subsection.3.2.5}
+\contentsline {subsection}{\numberline {3.2.6}Mesures combin\'ees}{67}{subsection.3.2.6}
+\contentsline {section}{\numberline {3.3}\'Energie noire ou gravit\'e modifi\'ee ?}{69}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Le probl\`eme de la constante cosmologique}{69}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}Mod\`eles restant dans le cadre de la Relativit\'e G\'en\'erale}{70}{subsection.3.3.2}
+\contentsline {subsection}{\numberline {3.3.3}Mod\`eles de gravit\'e modifi\'ee}{72}{subsection.3.3.3}
+\contentsline {chapter}{\numberline {4}Conclusion g\'en\'erale et perspectives}{74}{chapter.4}
+\chapterbegin 
